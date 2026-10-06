@@ -26,3 +26,8 @@ Python fundamentals 2:
 - enviroments
 
 No Mini-project for today :/
+
+## Day 3
+Getting more comfortable with git,
+testing branches,
+and working on [c++](https://github.com/shlummer/quant-roadmap).
