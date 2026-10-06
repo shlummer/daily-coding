@@ -30,4 +30,4 @@ No Mini-project for today :/
 ## Day 3
 Getting more comfortable with git,
 testing branches,
-and working on [c++](https://github.com/shlummer/quant-roadmap).
+and working on [C++](https://github.com/shlummer/quant-roadmap/tree/main/cpp/day01).
