@@ -3,7 +3,6 @@
 Daily programming practice and small projects
 
 ## Day 1
-
 Python fundamentals:
 
 - dictionairies
@@ -16,3 +15,14 @@ Python fundamentals:
 - imports
 
 Mini-project: Hackathon Team Analyzer
+
+## Day 2
+
+Python fundamentals 2:
+- exception handling
+- reading/writing
+- json
+- csv
+- enviroments
+
+No Mini-project for today :/
